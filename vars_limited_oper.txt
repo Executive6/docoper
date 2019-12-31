@@ -1,0 +1,3 @@
+$name_character = "ограниченного операциониста"; // 9 строка в introduce.md (переменная пишется в родительном падеже!)
+$status_img = ""; // 43 строка в suspicious_payments.md
+$extra_options = ""; // 62 строка в suspicious_payments.md
